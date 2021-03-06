@@ -1,3 +1,7 @@
+
+# NOTE: THIS IS A MIRROR
+Please submit issues, feature requests and PRs to https://gitlab.com/gopiandcode/gopcaml-mode
+
 # Gopcaml Ocaml Emacs Major Mode
 
 The ultimate ocaml editing mode.
